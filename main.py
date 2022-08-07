@@ -156,6 +156,8 @@ by myrccar
 
 """)
 
+print("go to: https://github.com/myrccar/python-skin-editer-for-beamng#readme for more info")
+
 skinName = input("enter skin name(no space): ").replace(" ","_")
 print("")
 
@@ -201,5 +203,6 @@ else:
         f.write(defaltJson.replace("CARNAME",carName).replace("SKINNAME",skinName).replace("FILETYPE",fileType))
 
 
+print("note the SKINNAME_color.dds file info can be found at \n https://documentation.beamng.com/modding/materials/vehicle/skinsystem/skintutorial/#fully-colorable-skin \n")
 input("enter to close")
 os.system('start '+path)
