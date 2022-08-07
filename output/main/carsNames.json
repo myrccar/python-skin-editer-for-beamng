@@ -1,0 +1,76 @@
+{
+    "cars": [
+        {
+            "Autobello Piccolina": "autobello"
+        },
+        {
+            "Civetta Bolide": "super"
+        },
+        {
+            "ETK 800 Series": "etk800"
+        },
+        {
+            "ETK K-Series": "etkc"
+        },
+        {
+            "ETK I-Series": "etki"
+        },
+        {
+            "Ibishu 200BX": "coupe"
+        },
+        {
+            "Ibishu Covet":"hatch"
+        },
+        {
+            "Ibishu Hopper":"hopper"
+        },
+        {
+            "Ibishu Pessima":"pessima"
+        },
+        {
+            "Ibishu Miramar":"miramar"
+        },
+        {
+            "Ibishu Pigeon":"pigeon"
+        },
+        {
+            "Bruckell LeGran":"legran"
+        },
+        {
+            "Bastion":"bastion"
+        },
+        {
+            "Bruckell Moonhawk":"moonhawk"
+        },
+        {
+            "Hirochi SBR4":"sbr"
+        },
+        {
+            "Hirochi Sunburst":"sunburst"
+        },
+        {
+            "Gavril H-Series":"van"
+        },
+        {
+            "Gavril Bluebuck":"bluebuck"
+        },
+        {
+            "Gavril Grand Marshal":"fullsize"
+        },
+        {
+            "Gavril T-Series":"semi"
+        },
+        {
+            "Gavril D-Series":"pickup"
+        },
+        {
+            "Gavril Roamer":"roamer"
+        },
+        {
+            "Wentward DT40L":"citybus"  
+        },
+        {
+            "Dry Van Trailer(big box traler)":"dryvan"
+        }
+    ]
+}
