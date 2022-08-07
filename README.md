@@ -2,5 +2,5 @@
 
 a skin maker/assistant for beamng.drive
 
-how to use download from the releases page **not fully finsed yet** 
+how to use download from the [releases](https://github.com/myrccar/python-skin-editer-for-beamng/releases) page **not fully finsed yet** 
 y/t tutorial soon maybe
